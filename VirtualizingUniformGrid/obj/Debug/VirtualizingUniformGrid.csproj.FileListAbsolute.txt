@@ -1,0 +1,36 @@
+c:\users\leica\documents\visual studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.exe.config
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.exe
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.pdb
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.csprojResolveAssemblyReference.cache
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\MainWindow.g.cs
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\App.g.cs
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid_MarkupCompile.cache
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid_MarkupCompile.lref
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\MainWindow.baml
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\Themes\Generic.baml
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.g.resources
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.Properties.Resources.resources
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.csproj.GenerateResource.Cache
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.exe
+C:\Users\leica\Documents\Visual Studio 2015\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.pdb
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.exe.config
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.exe
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.pdb
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.exe.config
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.exe
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\bin\Debug\VirtualizingUniformGrid.pdb
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\MainWindow.g.cs
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\App.g.cs
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid_MarkupCompile.cache
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid_MarkupCompile.lref
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\MainWindow.baml
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\Themes\Generic.baml
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.g.resources
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.Properties.Resources.resources
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.csproj.GenerateResource.cache
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.csproj.CoreCompileInputs.cache
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.exe
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.pdb
+D:\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\obj\Debug\VirtualizingUniformGrid.csprojAssemblyReference.cache

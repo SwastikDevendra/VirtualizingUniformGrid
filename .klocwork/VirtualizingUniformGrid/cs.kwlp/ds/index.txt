@@ -1,0 +1,7 @@
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\App.xaml.cs;;1;0;False;E855B8490802BC45FA37CE15C32D52B8E537CD71;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\CollectionToBind.cs;;2;0;False;F48CFCFD5805D1852D1446C850693386614B508D;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\CustomUniformGrid.cs;C:\Personal\Projects\VirtualizingUniformGrid\.klocwork\VirtualizingUniformGrid\cs.kwlp\ds\3\rixkaool.wta;3;0;False;3EAF52B2D73E62511E79B79EE4A46AEE09D1945F;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\MainWindow.xaml.cs;;4;0;False;7C4D3E5B2D33C112F18133A01828245BD5A9550A;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\Properties\AssemblyInfo.cs;;5;0;False;AA9A27D48F514AFC33A6C3D11198E70D765ABC02;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\Properties\Resources.Designer.cs;;6;0;False;674E8E3AF1C8DB59E774BA5ABD73049D213A4072;False
+C:\Personal\Projects\VirtualizingUniformGrid\VirtualizingUniformGrid\Properties\Settings.Designer.cs;;7;0;False;342EA1E32730DE199B1AF0204A2EC91740B7901B;False
